@@ -26,3 +26,5 @@
 * первый — командой git reset --hard.
 
 ![reset--hard.png](Screen/reset--hard.png)
+
+Согласно  домашнему заданию добавил комментарии))
